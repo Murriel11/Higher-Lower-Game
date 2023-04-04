@@ -25,3 +25,11 @@
 11. Add art.
 
 12 .Clear screen between rounds.
+
+## Used Python Concepts
+
+1.Dictionaries and how to access the value with a key.
+2. The return statement and how it works.
+3. Functions with inputs.
+4. Flagging.
+5. Some new ways to assign a=b then b=random value each loop
